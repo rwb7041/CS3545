@@ -40,7 +40,7 @@
 							<tool id="cdt.managedbuild.tool.gnu.c.compiler.macosx.exe.debug.947563569" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.macosx.exe.debug">
 								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.macosx.exe.debug.option.optimization.level.2020928239" name="Optimization Level" superClass="gnu.c.compiler.macosx.exe.debug.option.optimization.level" valueType="enumerated"/>
 								<option id="gnu.c.compiler.macosx.exe.debug.option.debugging.level.685578935" name="Debug Level" superClass="gnu.c.compiler.macosx.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
-								<option id="gnu.c.compiler.option.include.paths.1375787025" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+								<option id="gnu.c.compiler.option.include.paths.1375787025" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="/Library/Frameworks/SDL.framework/Versions/A/Headers"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.392934135" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
